@@ -1,0 +1,63 @@
+.Container{
+    align-items: center;
+    margin:auto;
+    padding-top: 10px;
+    max-width: 600px;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+}
+
+.DisplayButton{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.ButtonClicks{
+    font-size: 20px;
+    color: rgb(51, 13, 13);
+    padding-bottom: 20px;
+}
+
+.Paragraph{
+    text-align: center;
+    align-content: center;
+    text-decoration: none;
+    align-items: center;
+    padding:7px;
+    object-fit: cover;
+    color: brown;
+    border-style: solid;
+    border: 3px;
+    border-color: black;
+}
+
+.inputHeading{
+    margin-top: 0px;
+}
+
+.inputText{
+    font-size: 15px;
+    padding: 4px 11px 4px 11px;
+    margin-bottom: 12px;
+}
+
+.addButton{
+    margin-left: 6px;
+    font-size: 15px;
+    padding: 6px 13px 6px 13px;
+    background-color: lightblue;
+    border-color: rgb(48, 47, 47);
+    border-width: 1px;
+    border-radius: 3px;
+}
+
+.itemsList{
+    list-style-type: none;
+}
